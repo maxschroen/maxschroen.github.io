@@ -6,10 +6,10 @@ header:
   overlay_color: "#5e616c"
   overlay_image: /assets/images/mm-home-page-feature.jpg
   actions:
-    - label: "<i class='fas fa-link'></i> View CV"
+    - label: "<i class='fas fa-list'></i> View CV"
       url: "/cv/"
     - label: "<i class='fas fa-download'></i> Download PDF"
-      url: "/cv/"
+      url: "/assets/files/cv-max-schroen.pdf"
 excerpt: >
   I'm a passionate and competent full stack developer with experience in building and operationalizing front- and backend solutions.<br />
   <small>Find out more about me!</small>
