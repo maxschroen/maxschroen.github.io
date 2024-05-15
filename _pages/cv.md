@@ -8,7 +8,7 @@ toc_label: "Contents"
 toc_icon: "book"
 ---
 ---
-This CV is also available as a handy PDF file!
+This CV is also available as a PDF file!
 {: .notice--primary}
 [<i class="fa-solid fa-download"></i> Download PDF](/assets/files/cv-max-schroen.pdf){: .btn .btn--primary}
 #### Education

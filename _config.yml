@@ -111,10 +111,10 @@ defaults:
 
 category_archive:
   type: liquid
-  path: /categories/
+  path: /archive/categories/
 tag_archive:
   type: liquid
-  path: /tags/
+  path: /archive/tags/
 
 lunr:
   search_within_pages: true
