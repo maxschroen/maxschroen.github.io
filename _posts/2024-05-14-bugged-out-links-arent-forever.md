@@ -1,5 +1,5 @@
 ---
-title: "<Bugged Out!/> Links aren't forever"
+title: "<Bugged Out!/> Links Aren't Forever"
 last_modified_at: 2024-05-14T15:40:00+01:00
 classes: wide
 categories:
