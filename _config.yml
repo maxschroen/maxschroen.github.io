@@ -57,6 +57,8 @@ plugins:
   - jemoji
   - jekyll-include-cache
 
+logo: "/assets/images/android-chrome-192x192.png"
+
 author:
   name   : "Max Schrön"
   avatar : "/assets/images/bio-photo.jpg"
