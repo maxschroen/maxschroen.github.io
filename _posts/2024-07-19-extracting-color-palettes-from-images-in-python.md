@@ -4,7 +4,6 @@ last_modified_at: 2024-07-19T018:35:16+01:00
 classes: wide
 categories:
   - Tutorial
-  - Projects
 tags:
   - Python
   - Clustering
