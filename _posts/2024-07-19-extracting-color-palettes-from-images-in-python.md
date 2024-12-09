@@ -3,7 +3,7 @@ title: "Extracting Color Palettes from Images in Python"
 last_modified_at: 2024-07-19T018:35:16+01:00
 classes: wide
 categories:
-  - Tutorial
+  - Tutorials
 tags:
   - Python
   - Clustering

@@ -20,24 +20,15 @@ This CV is also available as a PDF file!
 
 #### Professional Experience
 ---
-##### (Jr.) Associate Business Reporting & Data Analytics
+##### (Jr.) Software Engineer QA Data
 *Full Time - Bayer AG (Berlin, DE)*\
-*AUG 2022 - PRESENT*
-- Full stack development and operationalization of web applications (Node.js/React)
+*AUG 2020 - PRESENT*
+- Full-Stack development and operationalization of applications (Node / Python / React / AWS)
 - Deployment and infrastructure management in Amazon Web Services (AWS)
-- Stewardship for audit & inspection data in data warehouse (Oracle)
-- Processing and management of customer data requests & analytics
+- Operation of data warehouse (Oracle) for quality audit and inspection data
+- Development of business reporting solutions for Chief Medical Office
+- Processing and management of customer data requests & analytics (SQL / Tableau / Python)
 - Development of process automation solutions for data-driven workflows (Python)
-- Business reporting & data analytics using ML & NLP techniques (Python)
-
-##### (Jr.) Analyst
-*Full Time - Bayer AG (Berlin, DE)*\
-*AUG 2020 - AUG 2022*
-- Full stack development and operationalization of web applications (Node.js/React)
-- Design and implementation of Amazon Web Services infrastructure (AWS)
-- Development / maintenance of audit & inspection data dashboards (Tableau)
-- Management of audit & inspection data in data warehouse (Oracle) along with processing of customer data requests & analytics
-- Technical consultation & implementation for audit data analysis projects (Python)
 
 ##### Integrated Degree Studies (B.Sc. - Computer Science)
 *Full Time - Bayer AG (Berlin, DE)*\
@@ -57,7 +48,7 @@ This CV is also available as a PDF file!
 ---
 ##### WPT Member: AI-powered Regulatory Intelligence 
 *Part Time – IMPALA Consortium – Remote*\
-*03/2024 - NOW*
+*03/2024 - 09/2024*
 - Representation of Bayer in pharmaceutical industry committee
 - Development of industry standard for regulatory change impact analysis using machine learning techniques
 - Implementation of proof-of-concept project in Bayer document landscape
